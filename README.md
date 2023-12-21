@@ -20,7 +20,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java.
 - **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
-- More projects are available on [my GitHub repositories]([https://github.com/wallaceespindola](https://github.com/wallaceespindola?tab=repositories)).
+- More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
 ## 🤝 Connect with Me
 - LinkedIn: [Wallace Espindola](https://www.linkedin.com/in/wallaceespindola)
