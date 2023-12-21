@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security.
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java.
-- **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of Python scripts and tests.
+- **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
 - More projects are available on my GitHub profile.
 
 ## 🤝 Connect with Me
