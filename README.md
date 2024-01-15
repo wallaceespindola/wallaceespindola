@@ -15,12 +15,18 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - Databases: **SQL, NoSQL, Oracle, PostgreSQL, MySQL, MariaDB, H2 DB**
 - Others: **Design Patterns, REST API Development**
 
+## 💻 My Tech Stack:
+[![Java, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Python, Flask, Git, Github, Gitlab, Docker, Jenkins, Linux](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,mysql,postman,py,flask,git,github,gitlab,docker,jenkins,linux)](https://skillicons.dev)
+
 ## 🔭 Latest Projects
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security.
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java.
 - **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
+
+## 💡 A Quote:
+[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🤝 Connect with Me
 - LinkedIn: [Wallace Espindola](https://www.linkedin.com/in/wallaceespindola)
