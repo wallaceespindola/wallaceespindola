@@ -34,9 +34,12 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - Twitter: [@wsespindola](https://twitter.com/wsespindola)
 
 ---
-
-<span align="center">
-
-![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceespindola&show_icons=true)
-
-</span>
+  
+<details open>
+  
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=wallaceespindola&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceespindola&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  
+</details>
