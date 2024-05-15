@@ -25,13 +25,24 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
-## 💡 A Quote:
-[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
+## 📃 Latest Articles, Publications and Tech-Talks:
+- **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
+- **[[Dev.To] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
+- **[[LinkedIn Pulse] The Modern Landscape: A Comparison of Leading Java Frameworks](http://bit.ly/top-java-frameworks)** - A Java framework landscape comparison between the top players on the market: Spring, Quarkus, Micronaut, JakartaEE and Helidon.
+- **[[LinkedIn Pulse] Comparing the popular Web Application Servers in the market](https://bit.ly/popular-web-application-servers)** - A technical comparison between the main web and application servers available for java applications, such as Tomcat, Jetty, Netty, Undertow, Nginx and Wildfly.
+- **[[LinkedIn Pulse] Welcome to cyborgs era: a reading of technology with us 24/7](https://bit.ly/welcome-age-cyborgs)** - Article about the integration of technology in our daily lives. It explores the various innovations that are blurring the line between humans and machines.
+- **[[LinkedIn Pulse] GPT-4: The Next Leap in AI Language Models - What to expect?](https://bit.ly/gpt-4-next-leap-ai)** - A technical review on GPT-4, the latest AI language model by OpenAI, that brings significant advancements in natural language and accurate outputs.
+- **[[LinkedIn Pulse] Google BARD vs. OpenAI ChatGPT: AI Technologies comparison](https://bit.ly/google-bard-vs-openai-chatgpt)** - A technical comparison between the language models Google BARD and OpenAI ChatGPT, the cutting-edge AI technologies of the moment.
+- **[[Freelance Business Month Europe] Freelance IT Market in Belgium](https://bit.ly/it-freelance-market-in-belgium)** - Talking about Belgium IT market movement and numbers. Where the opportunities are. How to start. Advantages and disadvantages. Business areas to target.
+- More available on [my LinkedIn](https://www.linkedin.com/in/wallaceespindola).
 
 ## 🤝 Connect with Me
 - LinkedIn: [Wallace Espindola](https://www.linkedin.com/in/wallaceespindola)
 - My Company's Website: [www.wtechitsolutions.com](http://www.wtechitsolutions.com)
 - Twitter: [@wsespindola](https://twitter.com/wsespindola)
+
+## 💡 A Quote:
+[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
   
