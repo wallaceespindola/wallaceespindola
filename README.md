@@ -26,6 +26,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
 ## 📃 Latest Articles, Publications and Tech-Talks:
+- **[[Dev.To] Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
 - **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
 - **[[Dev.To] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
 - **[[LinkedIn Pulse] The Modern Landscape: A Comparison of Leading Java Frameworks](http://bit.ly/top-java-frameworks)** - A Java framework landscape comparison between the top players on the market: Spring, Quarkus, Micronaut, JakartaEE and Helidon.
