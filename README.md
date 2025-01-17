@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 [![Java, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Python, Flask, Git, Github, Gitlab, Docker, Jenkins, Linux](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,mysql,postman,py,flask,git,github,gitlab,docker,jenkins,linux)](https://skillicons.dev)
 
 ## 🔭 Latest Projects
-- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, Poetry, CI/CD and Pytest to validate Python projects across multiple Python versions. This is specially useful for shared libs projects and multi-user environments projects.
+- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate Python projects across multiple Python versions. This is specially useful for shared libs projects and multi-user environments projects.
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security.
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java.
