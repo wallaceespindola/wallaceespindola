@@ -27,7 +27,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
 ## 📃 Latest Articles, Publications and Tech-Talks:
-- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage wity multiples python versions through the use of of tools like Tox, Nox and CI/CD.
+- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage wity multiples python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
 - **[[Dev Community] Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
 - **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
 - **[[Dev Community ] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
