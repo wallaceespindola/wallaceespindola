@@ -9,6 +9,9 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/wallaceespindola)**
 - 💞️ I’m frequently looking to collaborate on interesting projects, java and python based.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://twitter.com/wsespindola)
+[![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
+
 ## 🛠 Skills
 - Backend Development: **Java, Python, Spring, Maven, Hibernate, REST APIs, Microservices**
 - Web Technologies: **HTML5, CSS, JavaScript, Json, Data APIs**
