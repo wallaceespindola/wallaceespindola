@@ -5,9 +5,9 @@
 I'm a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development and solution architecture. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
 
 - 💡 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
-- 🖥️ All of my projects are available at [my GitHub](https://github.com/wallaceespindola).
-- 💬 Ask me about **Java, Python, Web, Backend, REST APIs, Spring, Maven, and Software Architecture**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/wallaceespindola)**
+- 🖥️ All of my projects are available at **[my GitHub repos](https://github.com/wallaceespindola)**.
+- 💬 Ask me about **Java, Python, Web, Backend, REST APIs, and Software Architecture**.
+- 📫 How to find me: reach out on **[my LinkedIn page](https://www.linkedin.com/in/wallaceespindola)**
 - 🤝 I’m frequently looking to collaborate on interesting projects, specially java and python based.
 - 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, and a bit of Spanish 🇪🇸, feel free to reach out.
 
