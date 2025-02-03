@@ -1,27 +1,45 @@
 # Hi there, I'm Wallace Espindola! 👋
 
 ## 🚀 About Me
-I'm a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
 
-- 🌱 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/wallaceespindola).
-- 💬 Ask me about **Java, Python, Web, Spring, Maven, and Software Architecture**.
+I'm a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development and solution architecture. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
+
+- 💡 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
+- 🖥️ All of my projects are available at [my GitHub](https://github.com/wallaceespindola).
+- 💬 Ask me about **Java, Python, Web, Backend, REST APIs, Spring, Maven, and Software Architecture**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/wallaceespindola)**
-- 💞️ I’m frequently looking to collaborate on interesting projects, java and python based.
+- 🤝 I’m frequently looking to collaborate on interesting projects, specially java and python based.
+- 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, and a bit of Spanish 🇪🇸, feel free to reach out.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://twitter.com/wsespindola)
 [![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
 
+---
+
 ## 🛠 Skills
+
 - Backend Development: **Java, Python, Spring, Maven, Hibernate, REST APIs, Microservices**
 - Web Technologies: **HTML5, CSS, JavaScript, Json, Data APIs**
-- Databases: **SQL, NoSQL, Oracle, PostgreSQL, MySQL, MariaDB, H2 DB**
-- Others: **Design Patterns, REST API Development**
+- Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB**
+- Others: **UML, OO, Design Patterns, REST API Development**
 
-## 💻 My Tech Stack:
-[![Java, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Python, Flask, Git, Github, Gitlab, Docker, Jenkins, Linux](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,mysql,postman,py,flask,git,github,gitlab,docker,jenkins,linux)](https://skillicons.dev)
+[![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
+[![Role](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue)](https://github.com/wallaceespindola)
+[![Solution Architect](https://img.shields.io/badge/Role-Solution%20Architect-purple)](https://github.com/wallaceespindola)
+[![Java](https://img.shields.io/badge/Java-Expert-red)](https://github.com/wallaceespindola)
+[![Python](https://img.shields.io/badge/Python-Advanced-blueviolet)](https://github.com/wallaceespindola)
+[![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
+
+---
+
+## 💻 My Tech Stack
+
+[![Java, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Python, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, SQLite, Linux](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,mysql,postman,python,flask,fastapi,git,github,gitlab,docker,mongodb,sqlite,linux)](https://skillicons.dev)
+
+---
 
 ## 🔭 Latest Projects
+
 - **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate Python projects across multiple Python versions. This is specially useful for shared libs projects and multi-user environments projects.
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security.
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
@@ -29,8 +47,11 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
-## 📃 Latest Articles, Publications and Tech-Talks:
-- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage wity multiples python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
+---
+
+## 📝 Latest Articles, Publications and Tech-Talks
+
+- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage with multiple python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
 - **[[Dev Community] Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
 - **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
 - **[[Dev Community ] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
@@ -42,10 +63,18 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 - **[[Freelance Business Month Europe] Freelance IT Market in Belgium](https://bit.ly/it-freelance-market-in-belgium)** - Talking about Belgium IT market movement and numbers. Where the opportunities are. How to start. Advantages and disadvantages. Business areas to target.
 - More available on [my LinkedIn](https://www.linkedin.com/in/wallaceespindola).
 
-## 🤝 Connect with Me
+---
+
+## 🔗 Connect with Me
+
+- Location: Brussels region, Belgium
+- Email: [wallace.espindola@gmail.com](mailto:wallace.espindola@gmail.com)
 - LinkedIn: [Wallace Espindola](https://www.linkedin.com/in/wallaceespindola)
 - My Company's Website: [www.wtechitsolutions.com](http://www.wtechitsolutions.com)
 - Twitter: [@wsespindola](https://twitter.com/wsespindola)
+- Gravatar: [Wallace Espindola](https://gravatar.com/wallacese)
+
+---
 
 ## 💡 A Quote:
 [![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
