@@ -34,7 +34,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 ## 💻 My Tech Stack
 
-[![Java, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Python, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, SQLite, Linux](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,mysql,postman,python,flask,fastapi,git,github,gitlab,docker,mongodb,sqlite,linux)](https://skillicons.dev)
+[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,postman,flask,fastapi,git,github,gitlab,docker,mongodb)](https://skillicons.dev)
 
 ---
 
