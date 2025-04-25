@@ -40,19 +40,24 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 ## 🔭 Latest Projects
 
-- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate Python projects across multiple Python versions. This is specially useful for shared libs projects and multi-user environments projects.
-- **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security.
+- **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)**: A simple and easy to use flash cards web app, based on a "question;answer" text list csv, you can give it a try on [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
+- **[FastAPI Demo Poject](https://github.com/wallaceespindola/python-fastapi-demo)**: A demo project showing the great features of FastAPI, one of the top and fastest technologies for Rest APIs and Microservices, including non-blocking async endpoints, running on Python ecosystem.
+- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Specially useful for shared libs and multi-user environments projects.
+- **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better application security.
 - **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
-- **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java.
-- **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python scripts and tests.
+- **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java, for better application security and data protection.
+- **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python tests and scripts, testing around Python features and ecosystem.
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
 ---
 
 ## 📝 Latest Articles, Publications and Tech-Talks
 
-- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage with multiple python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
-- **[[Dev Community] Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
+- **[[Dev Community] NoSQL Fighters Arena: The Battle of Data Titans](https://bit.ly/nosql-db-fighters-arena)** - Explore NoSQL databases reimagined as superheroes, each with unique powers and weaknesses, in a fun and visual battle-style format.
+- **[[LinkedIn Pulse] Java is turning 30 soon! Here's Why You Should Care, Even if You're Not a Tech Person](https://bit.ly/java-turning-30-soon-why-care)** - Java is a super famous programming language, and it is almost turning 30. But wait, what exactly is Java, and why should it matter to you?
+- **[[DZone] Top NoSQL Databases and When to Use Each](https://bit.ly/top-nosql-databases-and-use)** - A practical guide comparing NoSQL technologies like MongoDB, Cassandra, Redis, and more, highlighting their strengths, limitations, and best use cases.
+- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://bit.ly/test-python-poetry-tox-nox-cicd)** - Improving your test coverage with multiple python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
+- **[[Dev Community] Python Multithreading: Unlocking Concurrency for Better Performance](https://bit.ly/python-multithreading)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
 - **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
 - **[[Dev Community ] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
 - **[[LinkedIn Pulse] The Modern Landscape: A Comparison of Leading Java Frameworks](http://bit.ly/top-java-frameworks)** - A Java framework landscape comparison between the top players on the market: Spring, Quarkus, Micronaut, JakartaEE and Helidon.
@@ -69,15 +74,20 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 - Location: Brussels region, Belgium
 - Email: [wallace.espindola@gmail.com](mailto:wallace.espindola@gmail.com)
-- LinkedIn: [Wallace Espindola](https://www.linkedin.com/in/wallaceespindola)
+- LinkedIn: [linkedin.com/in/wallaceespindola](https://www.linkedin.com/in/wallaceespindola)
 - My Company's Website: [www.wtechitsolutions.com](http://www.wtechitsolutions.com)
-- Twitter: [@wsespindola](https://twitter.com/wsespindola)
-- Gravatar: [Wallace Espindola](https://gravatar.com/wallacese)
+- Twitter/X: [@wsespindola](https://x.com/wsespindola)
+- Gravatar: [gravatar.com/wallacese](https://gravatar.com/wallacese)
+- Presentation Slides: [speakerdeck.com/wallacese](https://speakerdeck.com/wallacese)
+- Dev Community Blog: [dev.to/wallaceespindola](https://dev.to/wallaceespindola)
+- DZone Articles: [dzone.com/users/1254611/wallacese](https://dzone.com/users/1254611/wallacese.html)
+- Pulse Articles: [linkedin.com/Pulse/wallaceespindola](https://linkedin.com/in/wallaceespindola/recent-activity/articles/)
+- My Substack Blog: [Code & Coffee by Wallace Espindola](https://wallaceespindola.substack.com)
 
 ---
 
 ## 💡 A Quote:
-[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
+[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay/Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
   
