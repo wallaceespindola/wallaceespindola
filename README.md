@@ -1,4 +1,4 @@
-<img src="/img/github-banner.png" alt="github-banner" width="100%">
+<img src="/img/github-banner-wallace.png" alt="github-banner" width="100%">
 
 # Hi there, I'm Wallace Espindola! 👋
 
