@@ -15,7 +15,6 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://x.com/wsespindola)
 [![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
-
 ![GitHub Followers](https://img.shields.io/github/followers/wallaceespindola?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/wallaceespindola?style=social)
 
