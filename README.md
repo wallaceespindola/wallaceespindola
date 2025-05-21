@@ -1,3 +1,5 @@
+<img src="img/github-banner.png" alt="github-banner" width="100%">
+
 # Hi there, I'm Wallace Espindola! 👋
 
 ## 🚀 About Me
@@ -13,6 +15,9 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://x.com/wsespindola)
 [![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
+
+![GitHub Followers](https://img.shields.io/github/followers/wallaceespindola?style=social)
+![GitHub stars](https://img.shields.io/github/stars/wallaceespindola?style=social)
 
 ---
 
@@ -35,6 +40,12 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 ## 💻 My Tech Stack
 
 [![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,postman,flask,fastapi,git,github,gitlab,docker,mongodb)](https://skillicons.dev)
+
+---
+
+## ☕ Cup of Support: Buy me a Coffee to Elevate My Energy
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/wallace.espindola)
 
 ---
 
