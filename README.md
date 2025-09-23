@@ -79,7 +79,7 @@ A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsyst
 - **[[LinkedIn Pulse] GPT-4: The Next Leap in AI Language Models - What to expect?](https://bit.ly/gpt-4-next-leap-ai)** - A technical review on GPT-4, the latest AI language model by OpenAI, that brings significant advancements in natural language and accurate outputs.
 - **[[LinkedIn Pulse] Google BARD vs. OpenAI ChatGPT: AI Technologies comparison](https://bit.ly/google-bard-vs-openai-chatgpt)** - A technical comparison between the language models Google BARD and OpenAI ChatGPT, the cutting-edge AI technologies of the moment.
 - **[[Freelance Business Month Europe] Freelance IT Market in Belgium](https://bit.ly/it-freelance-market-in-belgium)** - Talking about Belgium IT market movement and numbers. Where the opportunities are. How to start. Advantages and disadvantages. Business areas to target.
-- More available on [my LinkedIn](https://www.linkedin.com/in/wallaceespindola).
+- More available on [my LinkedIn page](https://www.linkedin.com/in/wallaceespindola).
 
 ---
 
@@ -91,10 +91,11 @@ A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsyst
 - Twitter/X: [@wsespindola](https://x.com/wsespindola)
 - Gravatar: [gravatar.com/wallacese](https://gravatar.com/wallacese)
 - Presentation Slides: [speakerdeck.com/wallacese](https://speakerdeck.com/wallacese)
-- Dev Community Blog: [dev.to/wallaceespindola](https://dev.to/wallaceespindola)
+- Dev Community: [dev.to/wallaceespindola](https://dev.to/wallaceespindola)
 - DZone Articles: [dzone.com/users/1254611/wallacese](https://dzone.com/users/1254611/wallacese.html)
-- Pulse Articles: [linkedin.com/Pulse/wallaceespindola](https://linkedin.com/in/wallaceespindola/recent-activity/articles/)
+- Pulse LinkedIn: [linkedin.com/Pulse/wallaceespindola](https://linkedin.com/in/wallaceespindola/recent-activity/articles/)
 - My Substack Blog: [Code & Coffee by Wallace Espindola](https://wallaceespindola.substack.com)
+- Medium Blog: [medium.com/@wallaceespindola](https://medium.com/@wallaceespindola)
 
 ---
 
