@@ -24,7 +24,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 ## 🛠 Skills
 
 - Backend Development: **Java, Python, C/C++, Spring Boot, Spring Security, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices**
-- Web Technologies: **HTML5, CSS, JavaScript, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger**
+- Web Technologies: **HTML5, CSS, JavaScript, Angular, React, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis, Cassandra**
 - Testing: **JUnit, Pytest, Selenium, Playwright, JMeter, SonarQube**
 - Security: **OAuth2, JWT, Spring Security, SSL/TLS, mTLS**
