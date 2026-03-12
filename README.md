@@ -30,7 +30,8 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
-- Project & Collaboration: **Jira, Confluence, Agile/Scrum, Kanban**
+- Agile & Practices: **Scrum, Kanban, SAFe, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points, Planning Poker**
+- Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
@@ -48,6 +49,10 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![NoSQL](https://img.shields.io/badge/NoSQL-Advanced-4DB33D)](https://github.com/wallaceespindola)
 [![System Design](https://img.shields.io/badge/System%20Design-Expert-darkblue)](https://github.com/wallaceespindola)
 [![ADRs](https://img.shields.io/badge/ADRs-Documentation-8B4513)](https://github.com/wallaceespindola)
+[![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
+[![SAFe](https://img.shields.io/badge/SAFe-Scaled%20Agile-E8710A)](https://github.com/wallaceespindola)
+[![Tech Lead](https://img.shields.io/badge/Tech%20Lead-Agile%20Teams-2E86C1)](https://github.com/wallaceespindola)
+[![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
 
 ---
 
@@ -81,6 +86,9 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)](https://www.microsoft.com/en/microsoft-365/visio/)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
+[![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)](https://miro.com)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 
 ---
 
