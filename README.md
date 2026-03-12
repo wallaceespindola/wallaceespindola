@@ -61,7 +61,9 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 💻 My Tech Stack
 
-[![Skill Icons](https://skillicons.dev/icons?i=java,python,c,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,azure,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,prometheus,grafana,selenium,bitbucket,md,swagger)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=java,python,c,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,azure,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,prometheus,grafana,selenium,bitbucket,md)](https://skillicons.dev)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org)
 
 ---
 
