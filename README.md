@@ -27,9 +27,9 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Web Technologies: **HTML5, CSS, JavaScript, JSON, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
 - DevOps & Tools: **Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka**
-- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Structurizr/C4 Model, Lucidchart, Visio, TOGAF, ADRs**
-- IDEs & Editors: **IntelliJ IDEA, VS Code**
-- AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, Hugging Face, LangChain**
+- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, TOGAF, ADRs**
+- IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
+- AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
@@ -41,11 +41,8 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![REST APIs](https://img.shields.io/badge/REST%20APIs-Expert-blue)](https://github.com/wallaceespindola)
 [![Microservices](https://img.shields.io/badge/Microservices-Advanced-teal)](https://github.com/wallaceespindola)
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/wallaceespindola)
-[![SQL](https://img.shields.io/badge/SQL-Expert-336791)](https://github.com/wallaceespindola)
 [![NoSQL](https://img.shields.io/badge/NoSQL-Advanced-4DB33D)](https://github.com/wallaceespindola)
 [![System Design](https://img.shields.io/badge/System%20Design-Expert-darkblue)](https://github.com/wallaceespindola)
-[![TOGAF](https://img.shields.io/badge/TOGAF-Architecture-2C3E50)](https://github.com/wallaceespindola)
-[![C4 Model](https://img.shields.io/badge/C4%20Model-Structurizr-438DD5)](https://github.com/wallaceespindola)
 [![ADRs](https://img.shields.io/badge/ADRs-Documentation-8B4513)](https://github.com/wallaceespindola)
 [![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
 [![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
@@ -54,7 +51,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 💻 My Tech Stack
 
-[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Swagger, React, Markdown](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,swagger,react,md)](https://skillicons.dev)
+[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, React, Markdown](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,react,md)](https://skillicons.dev)
 
 ---
 
@@ -68,7 +65,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com)
 [![Codex](https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 
 ---
@@ -80,7 +76,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://draw.io)
 [![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-003B6F?style=for-the-badge&logo=sparxsystems&logoColor=white)](https://sparxsystems.com)
 [![ArchiMate](https://img.shields.io/badge/ArchiMate-5B9BD5?style=for-the-badge&logo=theopengroup&logoColor=white)](https://www.opengroup.org/archimate-forum)
-[![Structurizr](https://img.shields.io/badge/Structurizr%20%2F%20C4-438DD5?style=for-the-badge&logo=c&logoColor=white)](https://structurizr.com)
 [![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucidchart&logoColor=white)](https://lucidchart.com)
 [![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)](https://www.microsoft.com/en/microsoft-365/visio/)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
