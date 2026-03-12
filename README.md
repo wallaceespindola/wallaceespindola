@@ -33,7 +33,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
-- Agile & Practices: **Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points, Planning Poker**
+- Agile & Practices: **Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points**
 - Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
@@ -105,7 +105,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - **[Fake Data with Spring Boot, DataFaker & EasyRandom](https://github.com/wallaceespindola/fake-data-springboot)** - Generating realistic fake data in Java with Spring Boot, Quarkus, DataFaker and EasyRandom for testing and development.
 - **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)** - A simple and easy to use flash cards web app, based on a "question;answer" text list csv, you can give it a try on [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
 - **[FastAPI Demo Project](https://github.com/wallaceespindola/python-fastapi-demo)** - A demo project showing the great features of FastAPI, one of the top and fastest technologies for REST APIs and Microservices, including non-blocking async endpoints, running on Python ecosystem.
-- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Especially useful for shared libs and multi-user environments projects.
+- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Useful for shared libs and multi-user environments projects.
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better application security.
 - **[Python Flask Server Running Check](https://github.com/wallaceespindola/python-flask-app)** - A Python Flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java, for better application security and data protection.
