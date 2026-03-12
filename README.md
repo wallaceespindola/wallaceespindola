@@ -23,15 +23,18 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 🛠 Skills
 
-- Backend Development: **Java, Python, C/C++, Spring Boot, Maven, Gradle, Hibernate, REST APIs, Microservices**
-- Web Technologies: **HTML5, CSS, JavaScript, Angular, React, JSON, XML, GraphQL, OpenAPI/Swagger**
+- Backend Development: **Java, Python, C/C++, Spring Boot, Spring Security, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices**
+- Web Technologies: **HTML5, CSS, JavaScript, Angular, React, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis, Cassandra**
-- Cloud & DevOps: **Azure, Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka, Tomcat, JBoss**
+- Testing: **JUnit, Pytest, Selenium, Playwright, JMeter, SonarQube**
+- Security: **OAuth2, JWT, Spring Security, SSL/TLS, mTLS**
+- Cloud & DevOps: **Azure, Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka, Tomcat, JBoss, Prometheus, Grafana, SonarQube, Bitbucket**
+- Build & Dependencies: **Maven, Gradle, Poetry, pip, uv**
 - Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
 - Agile & Practices: **Scrum, Kanban, SAFe, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points, Planning Poker**
-- Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello**
+- Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
@@ -58,12 +61,28 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 💻 My Tech Stack
 
-[![Java, Python, C, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Azure, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Angular, React, Markdown](https://skillicons.dev/icons?i=java,python,c,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,azure,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,angular,react,md)](https://skillicons.dev)
+[![Java, Python, C, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Azure, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Angular, React, Prometheus, Grafana, Selenium, Bitbucket, Markdown](https://skillicons.dev/icons?i=java,python,c,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,azure,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,angular,react,prometheus,grafana,selenium,bitbucket,md)](https://skillicons.dev)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
+[![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io)
+[![SOAP](https://img.shields.io/badge/SOAP%20%2F%20WSDL-5A5A5A?style=for-the-badge&logo=soap&logoColor=white)](https://www.w3.org/TR/soap/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org)
+[![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)](https://python-poetry.org)
+[![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io)
+[![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
+[![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+[![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=auth0&logoColor=white)](https://oauth.net/2/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+[![SSL/TLS/mTLS](https://img.shields.io/badge/SSL%20%2F%20TLS%20%2F%20mTLS-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://letsencrypt.org)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
+[![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)](https://toml.io)
 
 ---
 
