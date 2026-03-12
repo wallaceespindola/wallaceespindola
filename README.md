@@ -23,7 +23,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 🛠 Skills
 
-- Backend Development: **Java, Python, C/C++, Spring Boot, Spring Security, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices**
+- Backend Development: **Java, Python, Spring Boot/Security/MVC, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices**
 - Web Technologies: **HTML5, CSS, JavaScript, Angular, React, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis, Cassandra**
 - Testing: **JUnit, Pytest, Selenium, Playwright, JMeter, SonarQube**
@@ -33,7 +33,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
-- Agile & Practices: **Scrum, Kanban, SAFe, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points, Planning Poker**
+- Agile & Practices: **Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points, Planning Poker**
 - Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
@@ -53,7 +53,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![System Design](https://img.shields.io/badge/System%20Design-Expert-darkblue)](https://github.com/wallaceespindola)
 [![ADRs](https://img.shields.io/badge/ADRs-Documentation-8B4513)](https://github.com/wallaceespindola)
 [![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
-[![SAFe](https://img.shields.io/badge/SAFe-Scaled%20Agile-E8710A)](https://github.com/wallaceespindola)
 [![Tech Lead](https://img.shields.io/badge/Tech%20Lead-Agile%20Teams-2E86C1)](https://github.com/wallaceespindola)
 [![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
 
@@ -62,8 +61,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 ## 💻 My Tech Stack
 
 [![Skill Icons](https://skillicons.dev/icons?i=java,python,c,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,azure,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,prometheus,grafana,selenium,bitbucket,md)](https://skillicons.dev)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org)
 
 ---
 
