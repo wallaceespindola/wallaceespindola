@@ -100,6 +100,12 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ---
 
+## 🎓 Certifications
+
+- **SCJP - Sun Certified Java Programmer** (Sun Microsystems)
+
+---
+
 ## 🔭 Latest Projects
 
 - **[Fake Data with Spring Boot, DataFaker & EasyRandom](https://github.com/wallaceespindola/fake-data-springboot)** - Generating realistic fake data in Java with Spring Boot, Quarkus, DataFaker and EasyRandom for testing and development.
