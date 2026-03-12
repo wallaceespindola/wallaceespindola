@@ -47,7 +47,7 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 
 ## 💻 My Tech Stack
 
-[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Swagger](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,swagger)](https://skillicons.dev)
+[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Swagger, React, Markdown](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,swagger,react,md)](https://skillicons.dev)
 
 ---
 
