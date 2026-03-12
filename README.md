@@ -33,7 +33,14 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 [![Solution Architect](https://img.shields.io/badge/Role-Solution%20Architect-purple)](https://github.com/wallaceespindola)
 [![Java](https://img.shields.io/badge/Java-Expert-red)](https://github.com/wallaceespindola)
 [![Python](https://img.shields.io/badge/Python-Advanced-blueviolet)](https://github.com/wallaceespindola)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-6DB33F)](https://github.com/wallaceespindola)
+[![REST APIs](https://img.shields.io/badge/REST%20APIs-Expert-blue)](https://github.com/wallaceespindola)
+[![Microservices](https://img.shields.io/badge/Microservices-Advanced-teal)](https://github.com/wallaceespindola)
+[![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/wallaceespindola)
+[![SQL](https://img.shields.io/badge/SQL-Expert-336791)](https://github.com/wallaceespindola)
+[![NoSQL](https://img.shields.io/badge/NoSQL-Advanced-4DB33D)](https://github.com/wallaceespindola)
 [![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
+[![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
 
 ---
 
@@ -81,7 +88,7 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 - **[[Code & Coffee - Substack] Java turns 30: An Innovation Journey Through Time and Technology](https://wallaceespindola.substack.com/p/java-turns-30-an-innovation-journey)** - What 30 years of Java can teach us about building tech that lasts. A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsystems** introduced Java 1.0 to the world, until modern days that made Java essentially great.
 - **[[Dev Community] FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)** - Demonstrating FastAPI, a web framework designed for building APIs quickly and efficiently. Python based natively async, it takes advantage of non-blocking I/O to handle high loads, with extra features such as embedded data validation with Pydantic and auto-documentation with Swagger/Redoc.
 - **[[Dev Community] NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)** - Explore NoSQL databases reimagined as superheroes, each with unique powers and weaknesses, in a fun and visual battle-style format.
-- **[[LinkedIn Pulse] Java is turning 30 soon! Here's Why You Should Care, Even if You're Not a Tech Person](https://bit.ly/java-turning-30-soon-why-care)** - Java is a super famous programming language, and it is almost turning 30. But wait, what exactly is Java, and why should it matter to you?
+- **[[LinkedIn Pulse] Java is turning 30 soon! Here's Why You Should Care, Even if You're Not a Tech Person](https://www.linkedin.com/pulse/java-turning-30-soon-heres-why-you-should-care-even-youre-espindola-npxqe)** - Java is a super famous programming language, and it is almost turning 30. But wait, what exactly is Java, and why should it matter to you?
 - **[[DZone] Automating Python Multi-Version Testing With Tox and Nox](https://dzone.com/articles/automating-python-testing-across-versions-with-tox-and-nox)** - How to use Tox and Nox for Python test automation, walking through setting up multi-version testing, managing dependencies with Poetry, and using Pytest.
 - **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage with multiple Python versions through the use of tools like Poetry, Pytest, Tox, Nox and CI/CD.
 - **[[Dev Community] Python Multithreading: Unlocking Concurrency for Better Performance](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
