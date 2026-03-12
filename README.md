@@ -22,11 +22,12 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 
 ## 🛠 Skills
 
-- Backend Development: **Java, Python, Spring, Maven, Hibernate, REST APIs, Microservices**
-- Web Technologies: **HTML5, CSS, JavaScript, JSON, Data APIs**
+- Backend Development: **Java, Python, Spring Boot, Maven, Gradle, Hibernate, REST APIs, Microservices**
+- Web Technologies: **HTML5, CSS, JavaScript, JSON, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
-- DevOps & Tools: **Docker, CI/CD, GitHub Actions, Kafka, GraphQL, OpenAPI**
-- Others: **UML, OO, Design Patterns, Software Architecture**
+- DevOps & Tools: **Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka**
+- IDEs & Editors: **IntelliJ IDEA, VS Code**
+- Others: **UML, OO, Design Patterns, Software Architecture, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
 [![Role](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue)](https://github.com/wallaceespindola)
