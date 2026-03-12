@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development and solution architecture. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
+I’m a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development and solution architecture. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
 
 - 💡 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
 - 🖥️ All of my projects are available at **[my GitHub repos](https://github.com/wallaceespindola)**.
 - 💬 Ask me about **Java, Python, Web, Backend, REST APIs, and Software Architecture**.
 - 📫 How to find me: reach out on **[my LinkedIn page](https://www.linkedin.com/in/wallaceespindola)**
-- 🤝 I’m frequently looking to collaborate on interesting projects, specially java and python based.
+- 🤝 I’m frequently looking to collaborate on interesting projects, especially Java and Python based.
 - 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, and a bit of Spanish 🇪🇸, feel free to reach out.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://x.com/wsespindola)
@@ -23,9 +23,10 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 ## 🛠 Skills
 
 - Backend Development: **Java, Python, Spring, Maven, Hibernate, REST APIs, Microservices**
-- Web Technologies: **HTML5, CSS, JavaScript, Json, Data APIs**
-- Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB**
-- Others: **UML, OO, Design Patterns, REST API Development**
+- Web Technologies: **HTML5, CSS, JavaScript, JSON, Data APIs**
+- Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
+- DevOps & Tools: **Docker, CI/CD, GitHub Actions, Kafka, GraphQL, OpenAPI**
+- Others: **UML, OO, Design Patterns, Software Architecture**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
 [![Role](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue)](https://github.com/wallaceespindola)
@@ -38,7 +39,7 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 ## 💻 My Tech Stack
 
-[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,postman,flask,fastapi,git,github,gitlab,docker,mongodb)](https://skillicons.dev)
+[![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux)](https://skillicons.dev)
 
 ---
 
@@ -50,11 +51,12 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 ## 🔭 Latest Projects
 
-- **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)**: A simple and easy to use flash cards web app, based on a "question;answer" text list csv, you can give it a try on [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
-- **[FastAPI Demo Poject](https://github.com/wallaceespindola/python-fastapi-demo)**: A demo project showing the great features of FastAPI, one of the top and fastest technologies for Rest APIs and Microservices, including non-blocking async endpoints, running on Python ecosystem.
-- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Specially useful for shared libs and multi-user environments projects.
+- **[Fake Data with Spring Boot, DataFaker & EasyRandom](https://github.com/wallaceespindola/fake-data-springboot)** - Generating realistic fake data in Java with Spring Boot, Quarkus, DataFaker and EasyRandom for testing and development.
+- **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)** - A simple and easy to use flash cards web app, based on a "question;answer" text list csv, you can give it a try on [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
+- **[FastAPI Demo Project](https://github.com/wallaceespindola/python-fastapi-demo)** - A demo project showing the great features of FastAPI, one of the top and fastest technologies for REST APIs and Microservices, including non-blocking async endpoints, running on Python ecosystem.
+- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Especially useful for shared libs and multi-user environments projects.
 - **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better application security.
-- **[Python flask server running check](https://github.com/wallaceespindola/python-flask-app)** - A python flask web server utility to check that a server is up and running.
+- **[Python Flask Server Running Check](https://github.com/wallaceespindola/python-flask-app)** - A Python Flask web server utility to check that a server is up and running.
 - **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java, for better application security and data protection.
 - **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python tests and scripts, testing around Python features and ecosystem.
 - More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
@@ -63,23 +65,35 @@ I'm a **Senior Software Engineer** with a passion for backend development, espec
 
 ## 📝 Latest Articles, Publications and Tech-Talks
 
-- **[[Code & Coffee - Substack] Java turns 30: An Innovation Journey Through Time and Technology](https://wallaceespindola.substack.com/p/java-turns-30-an-innovation-journey)** - What 30 years of Java can teach us about building tech that lasts.
-A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsystems** introduced Java 1.0 to the world, until modern days that made Java essentially great.
-- **[[Dev Community] FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)** - Demostranting FastAPI, a web framework designed for building APIs quickly and efficiently. Python based natively async, it takes advantage of non-blocking I/O to handle high loads, with extra features such as embedded data validation with Pydantic and auto-documentation with Swagger/Redoc.
-- **[[Dev Community] NoSQL Fighters Arena: The Battle of Data Titans](https://bit.ly/nosql-db-fighters-arena)** - Explore NoSQL databases reimagined as superheroes, each with unique powers and weaknesses, in a fun and visual battle-style format.
+- **[[Code & Coffee - Substack] Happy 35 Years Python! Here's What Kept It Alive So Much Time!](https://wallaceespindola.substack.com/p/happy-35-years-python-heres-what)** - Celebrating Python's 35th anniversary and exploring the key factors that made it one of the most popular and enduring programming languages in the world.
+- **[[Dev Community] Python Just Turned 35, Here's What Kept It Alive All These Years](https://dev.to/wallaceespindola/python-just-turned-35-heres-what-kept-it-alive-all-these-years-4jh9)** - A deep dive into Python's 35-year journey, from its humble beginnings to becoming a dominant force in AI, web development, and data science.
+- **[[Code & Coffee - Substack] Pydantic and Pre-commit Hooks Now on Main Quadrant of TechRadar from ThoughtWorks](https://wallaceespindola.substack.com/p/pydantic-and-pre-commit-hooks-now)** - Analysis of Pydantic and pre-commit hooks making it to the main quadrant of ThoughtWorks Technology Radar, and what it means for Python developers.
+- **[[Medium] Complete Guide to Contract-First Integration with Spring Boot](https://medium.com/@wallaceespindola/complete-guide-to-contract-first-integration-with-spring-boot-92d1d9caf70a)** - A complete guide to contract-first integration with Spring Boot, OpenAPI, and Kafka for parallel systems development.
+- **[[Dev Community] Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)** - A practical guide on contract-first integration, enabling parallel systems development with well-defined API contracts.
+- **[[Medium] Architecture Decision Records Made Easy](https://medium.com/@wallaceespindola/architecture-decision-records-made-easy-e2a0934dbc64)** - A practical introduction to Architecture Decision Records (ADRs) and how to use them to document important technical choices effectively.
+- **[[DZone] Building Realistic Test Data in Java](https://dzone.com/articles/building-realistic-test-data-in-java-with-datafake)** - Exploring two powerful Java libraries, DataFaker and EasyRandom, for generating fake yet realistic data for testing and development.
+- **[[Dev Community] Generating Realistic Fake Data in Java with Quarkus, DataFaker & EasyRandom](https://dev.to/wallaceespindola/generating-realistic-fake-data-in-java-with-quarkus-datafaker-easyrandom-5gi8)** - A hands-on guide to generating realistic fake data in Java applications using Quarkus, DataFaker, and EasyRandom libraries.
+- **[[Medium] Stop Faking "John Doe": How to Generate Realistic Data in Java with DataFaker + EasyRandom](https://medium.com/@wallaceespindola/stop-faking-john-doe-how-to-generate-realistic-data-in-java-with-datafaker-easyrandom-94eef3d4e4bd)** - Why using realistic fake data matters for testing and development, with practical Java examples using DataFaker and EasyRandom.
+- **[[Dev Community] Cassandra vs PostgreSQL: A Developer's Guide to Choose the Right Database](https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi)** - A comprehensive comparison between Apache Cassandra and PostgreSQL, helping developers choose the right database for their use case.
+- **[[Code & Coffee - Substack] GraphQL vs. REST – Understanding the Differences and When to Use Each](https://wallaceespindola.substack.com/p/graphql-vs-rest-understand-differences-when-use)** - Breaking down the key differences between GraphQL and REST APIs, with guidance on when to use each approach.
+- **[[Code & Coffee - Substack] FastAPI in Action: Cutting Edge Async API Development](https://wallaceespindola.substack.com/p/fastapi-in-action-cutting-edge-async-apis)** - FastAPI in action for building cutting-edge async APIs with Python, showcasing its modern features and performance advantages.
+- **[[DZone] Top NoSQL Databases and When to Use Each](https://dzone.com/articles/top-nosql-databases-and-use-cases)** - A practical guide comparing NoSQL technologies like MongoDB, Cassandra, Redis, and more, highlighting their strengths, limitations, and best use cases.
+- **[[Code & Coffee - Substack] Java turns 30: An Innovation Journey Through Time and Technology](https://wallaceespindola.substack.com/p/java-turns-30-an-innovation-journey)** - What 30 years of Java can teach us about building tech that lasts. A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsystems** introduced Java 1.0 to the world, until modern days that made Java essentially great.
+- **[[Dev Community] FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)** - Demonstrating FastAPI, a web framework designed for building APIs quickly and efficiently. Python based natively async, it takes advantage of non-blocking I/O to handle high loads, with extra features such as embedded data validation with Pydantic and auto-documentation with Swagger/Redoc.
+- **[[Dev Community] NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)** - Explore NoSQL databases reimagined as superheroes, each with unique powers and weaknesses, in a fun and visual battle-style format.
 - **[[LinkedIn Pulse] Java is turning 30 soon! Here's Why You Should Care, Even if You're Not a Tech Person](https://bit.ly/java-turning-30-soon-why-care)** - Java is a super famous programming language, and it is almost turning 30. But wait, what exactly is Java, and why should it matter to you?
-- **[[DZone] Top NoSQL Databases and When to Use Each](https://bit.ly/top-nosql-databases-and-use)** - A practical guide comparing NoSQL technologies like MongoDB, Cassandra, Redis, and more, highlighting their strengths, limitations, and best use cases.
-- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://bit.ly/test-python-poetry-tox-nox-cicd)** - Improving your test coverage with multiple python versions through the use of of tools like Poetry, Pytest, Tox, Nox and CI/CD.
-- **[[Dev Community] Python Multithreading: Unlocking Concurrency for Better Performance](https://bit.ly/python-multithreading)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency. A must-read, to understand threading application performance in deep.
-- **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://bit.ly/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
-- **[[Dev Community ] Best API Performance Testing Tools in 2024](https://bit.ly/best-api-performance-testing-tools)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
-- **[[LinkedIn Pulse] The Modern Landscape: A Comparison of Leading Java Frameworks](http://bit.ly/top-java-frameworks)** - A Java framework landscape comparison between the top players on the market: Spring, Quarkus, Micronaut, JakartaEE and Helidon.
-- **[[LinkedIn Pulse] Comparing the popular Web Application Servers in the market](https://bit.ly/popular-web-application-servers)** - A technical comparison between the main web and application servers available for java applications, such as Tomcat, Jetty, Netty, Undertow, Nginx and Wildfly.
+- **[[DZone] Automating Python Multi-Version Testing With Tox and Nox](https://dzone.com/articles/automating-python-testing-across-versions-with-tox-and-nox)** - How to use Tox and Nox for Python test automation, walking through setting up multi-version testing, managing dependencies with Poetry, and using Pytest.
+- **[[Dev Community] Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)** - Improving your test coverage with multiple Python versions through the use of tools like Poetry, Pytest, Tox, Nox and CI/CD.
+- **[[Dev Community] Python Multithreading: Unlocking Concurrency for Better Performance](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)** - The essentials of Python multithreading with practical examples and best practices to enhance application performance through concurrency.
+- **[[DZone] Secure Password Hashing in Java: Best Practices and Code Examples](https://dzone.com/articles/secure-password-hashing-in-java)** - Secure password hashing using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better security, as alternative to SHA-512.
+- **[[Dev Community] Best API Performance Testing Tools in 2024](https://dev.to/wallaceespindola/best-api-performance-testing-tools-in-2024-3n92)** - Analysis of the top API performance testing tools for 2024, including JMeter, Postman, Locust, Gatling, and Grafana k6. For devs / QA engineers focused on API load testing.
+- **[[LinkedIn Pulse] The Modern Landscape: A Comparison of Leading Java Frameworks](https://www.linkedin.com/pulse/exploring-modern-landscape-comparison-leading-java-wallace-espindola-fmhde)** - A Java framework landscape comparison between the top players on the market: Spring, Quarkus, Micronaut, JakartaEE and Helidon.
+- **[[LinkedIn Pulse] Comparing the popular Web Application Servers in the market](https://www.linkedin.com/pulse/comparing-popular-web-application-servers-market-wallace-espindola-ctf0e)** - A technical comparison between the main web and application servers available for Java applications, such as Tomcat, Jetty, Netty, Undertow, Nginx and Wildfly.
 - **[[LinkedIn Pulse] Welcome to cyborgs era: a reading of technology with us 24/7](https://bit.ly/welcome-age-cyborgs)** - Article about the integration of technology in our daily lives. It explores the various innovations that are blurring the line between humans and machines.
-- **[[LinkedIn Pulse] GPT-4: The Next Leap in AI Language Models - What to expect?](https://bit.ly/gpt-4-next-leap-ai)** - A technical review on GPT-4, the latest AI language model by OpenAI, that brings significant advancements in natural language and accurate outputs.
-- **[[LinkedIn Pulse] Google BARD vs. OpenAI ChatGPT: AI Technologies comparison](https://bit.ly/google-bard-vs-openai-chatgpt)** - A technical comparison between the language models Google BARD and OpenAI ChatGPT, the cutting-edge AI technologies of the moment.
+- **[[LinkedIn Pulse] GPT-4: The Next Leap in AI Language Models - What to expect?](https://www.linkedin.com/pulse/gpt-4-next-leap-ai-language-models-what-expect-wallace-espindola)** - A technical review on GPT-4, the latest AI language model by OpenAI, that brings significant advancements in natural language and accurate outputs.
+- **[[LinkedIn Pulse] Google BARD vs. OpenAI ChatGPT: AI Technologies comparison](https://www.linkedin.com/pulse/google-bard-vs-openai-chatgpt-comprehensive-two-ai-wallace-espindola)** - A technical comparison between the language models Google BARD and OpenAI ChatGPT, the cutting-edge AI technologies of the moment.
 - **[[Freelance Business Month Europe] Freelance IT Market in Belgium](https://bit.ly/it-freelance-market-in-belgium)** - Talking about Belgium IT market movement and numbers. Where the opportunities are. How to start. Advantages and disadvantages. Business areas to target.
-- More available on [my LinkedIn page](https://www.linkedin.com/in/wallaceespindola).
+- More available on [my LinkedIn](https://www.linkedin.com/in/wallaceespindola), [Dev.to](https://dev.to/wallaceespindola), [DZone](https://dzone.com/users/1254611/wallacese.html), [Substack](https://wallaceespindola.substack.com) and [Medium](https://medium.com/@wallaceespindola).
 
 ---
 
@@ -89,18 +103,19 @@ A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsyst
 - LinkedIn: [linkedin.com/in/wallaceespindola](https://www.linkedin.com/in/wallaceespindola)
 - My Company's Website: [www.wtechitsolutions.com](http://www.wtechitsolutions.com)
 - Twitter/X: [@wsespindola](https://x.com/wsespindola)
-- Gravatar: [gravatar.com/wallacese](https://gravatar.com/wallacese)
-- Presentation Slides: [speakerdeck.com/wallacese](https://speakerdeck.com/wallacese)
-- Dev Community: [dev.to/wallaceespindola](https://dev.to/wallaceespindola)
-- DZone Articles: [dzone.com/users/1254611/wallacese](https://dzone.com/users/1254611/wallacese.html)
-- Pulse LinkedIn: [linkedin.com/Pulse/wallaceespindola](https://linkedin.com/in/wallaceespindola/recent-activity/articles/)
 - My Substack Blog: [Code & Coffee by Wallace Espindola](https://wallaceespindola.substack.com)
 - Medium Blog: [medium.com/@wallaceespindola](https://medium.com/@wallaceespindola)
+- Dev Community: [dev.to/wallaceespindola](https://dev.to/wallaceespindola)
+- DZone Articles: [dzone.com/users/1254611/wallacese](https://dzone.com/users/1254611/wallacese.html)
+- LinkedIn Articles: [linkedin.com/in/wallaceespindola/articles](https://linkedin.com/in/wallaceespindola/recent-activity/articles/)
+- Presentation Slides: [speakerdeck.com/wallacese](https://speakerdeck.com/wallacese)
+- Speaker Profile: [sessionize.com/wallace-espindola](https://sessionize.com/wallace-espindola/)
+- Gravatar: [gravatar.com/wallacese](https://gravatar.com/wallacese)
 
 ---
 
 ## 💡 A Quote:
-[![My Quote: Invent the future, Peter Drucker](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay/Peter%20Drucker)](https://github.com/piyushsuthar/github-readme-quotes)
+[![My Quote: Invent the future, Alan Kay](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
   
