@@ -4,11 +4,12 @@
 
 ## 🚀 About Me
 
-I’m a **Senior Software Engineer** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development and solution architecture. I have a keen interest in web technologies and a curiosity for exploring new software development paradigms.
+I’m a **Senior Software Engineer & Solutions Architect** with a passion for backend development, especially in **Java**, **Python** and **Spring Framework**. 20+ years of experience in software development, solution architecture, and system design. I have a keen interest in web technologies, architecture patterns, and a curiosity for exploring new software development paradigms.
 
 - 💡 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
+- 🏗️ I design and document **software architectures**, from microservices to enterprise systems.
 - 🖥️ All of my projects are available at **[my GitHub repos](https://github.com/wallaceespindola)**.
-- 💬 Ask me about **Java, Python, Web, Backend, REST APIs, and Software Architecture**.
+- 💬 Ask me about **Java, Python, Solution Architecture, System Design, REST APIs, Microservices, and ADRs**.
 - 📫 How to find me: reach out on **[my LinkedIn page](https://www.linkedin.com/in/wallaceespindola)**
 - 🤝 I’m frequently looking to collaborate on interesting projects, especially Java and Python based.
 - 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, and a bit of Spanish 🇪🇸, feel free to reach out.
@@ -26,9 +27,10 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 - Web Technologies: **HTML5, CSS, JavaScript, JSON, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
 - DevOps & Tools: **Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka**
+- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Structurizr/C4 Model, Lucidchart, Visio, TOGAF, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, Hugging Face, LangChain**
-- Others: **UML, OO, Design Patterns, Software Architecture, Bash/Shell Scripting**
+- Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
 [![Role](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue)](https://github.com/wallaceespindola)
@@ -41,6 +43,10 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/wallaceespindola)
 [![SQL](https://img.shields.io/badge/SQL-Expert-336791)](https://github.com/wallaceespindola)
 [![NoSQL](https://img.shields.io/badge/NoSQL-Advanced-4DB33D)](https://github.com/wallaceespindola)
+[![System Design](https://img.shields.io/badge/System%20Design-Expert-darkblue)](https://github.com/wallaceespindola)
+[![TOGAF](https://img.shields.io/badge/TOGAF-Architecture-2C3E50)](https://github.com/wallaceespindola)
+[![C4 Model](https://img.shields.io/badge/C4%20Model-Structurizr-438DD5)](https://github.com/wallaceespindola)
+[![ADRs](https://img.shields.io/badge/ADRs-Documentation-8B4513)](https://github.com/wallaceespindola)
 [![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
 [![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
 
@@ -64,6 +70,21 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+
+---
+
+## 🏗️ Architecture & Diagram Tools
+
+[![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)](https://plantuml.com)
+[![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)](https://mermaid.js.org)
+[![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://draw.io)
+[![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-003B6F?style=for-the-badge&logo=sparxsystems&logoColor=white)](https://sparxsystems.com)
+[![ArchiMate](https://img.shields.io/badge/ArchiMate-5B9BD5?style=for-the-badge&logo=theopengroup&logoColor=white)](https://www.opengroup.org/archimate-forum)
+[![Structurizr](https://img.shields.io/badge/Structurizr%20%2F%20C4-438DD5?style=for-the-badge&logo=c&logoColor=white)](https://structurizr.com)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucidchart&logoColor=white)](https://lucidchart.com)
+[![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)](https://www.microsoft.com/en/microsoft-365/visio/)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![TOGAF](https://img.shields.io/badge/TOGAF-2C3E50?style=for-the-badge&logo=theopengroup&logoColor=white)](https://www.opengroup.org/togaf)
 
 ---
 
