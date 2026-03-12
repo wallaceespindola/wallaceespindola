@@ -27,7 +27,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Web Technologies: **HTML5, CSS, JavaScript, JSON, GraphQL, OpenAPI/Swagger**
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
 - DevOps & Tools: **Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka**
-- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, TOGAF, ADRs**
+- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
 - IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
 - AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
 - Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
@@ -44,8 +44,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![NoSQL](https://img.shields.io/badge/NoSQL-Advanced-4DB33D)](https://github.com/wallaceespindola)
 [![System Design](https://img.shields.io/badge/System%20Design-Expert-darkblue)](https://github.com/wallaceespindola)
 [![ADRs](https://img.shields.io/badge/ADRs-Documentation-8B4513)](https://github.com/wallaceespindola)
-[![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-orange)](https://github.com/wallaceespindola)
-[![Tech Writer](https://img.shields.io/badge/Tech%20Writer-Speaker-ff69b4)](https://github.com/wallaceespindola)
 
 ---
 
@@ -76,10 +74,8 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://draw.io)
 [![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-003B6F?style=for-the-badge&logo=sparxsystems&logoColor=white)](https://sparxsystems.com)
 [![ArchiMate](https://img.shields.io/badge/ArchiMate-5B9BD5?style=for-the-badge&logo=theopengroup&logoColor=white)](https://www.opengroup.org/archimate-forum)
-[![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucidchart&logoColor=white)](https://lucidchart.com)
 [![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)](https://www.microsoft.com/en/microsoft-365/visio/)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-[![TOGAF](https://img.shields.io/badge/TOGAF-2C3E50?style=for-the-badge&logo=theopengroup&logoColor=white)](https://www.opengroup.org/togaf)
 
 ---
 
