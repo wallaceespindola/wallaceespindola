@@ -27,6 +27,7 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 - Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis**
 - DevOps & Tools: **Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka**
 - IDEs & Editors: **IntelliJ IDEA, VS Code**
+- AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, Hugging Face, LangChain**
 - Others: **UML, OO, Design Patterns, Software Architecture, Bash/Shell Scripting**
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
@@ -48,6 +49,21 @@ I’m a **Senior Software Engineer** with a passion for backend development, esp
 ## 💻 My Tech Stack
 
 [![Java, Python, Spring, Maven, Hibernate, PostgreSQL, MySQL, Cassandra, Postman, Flask, FastAPI, Git, Github, Gitlab, Docker, MongoDB, Redis, Kafka, Linux, Kubernetes, OpenShift, IntelliJ, VSCode, Bash, Gradle, Jenkins, Nginx, GraphQL, Swagger, React, Markdown](https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,postgresql,mysql,cassandra,postman,flask,fastapi,git,github,gitlab,docker,mongodb,redis,kafka,linux,kubernetes,openshift,idea,vscode,bash,gradle,jenkins,nginx,graphql,swagger,react,md)](https://skillicons.dev)
+
+---
+
+## 🤖 AI & LLM Tools
+
+[![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+[![Windsurf](https://img.shields.io/badge/Windsurf-0066FF?style=for-the-badge&logo=codeium&logoColor=white)](https://windsurf.com)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com)
+[![Codex](https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 
 ---
 
