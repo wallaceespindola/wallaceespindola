@@ -23,19 +23,19 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 🛠 Skills
 
-- Backend Development: **Java, Python, Spring Boot/Security/MVC, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices**
-- Web Technologies: **HTML5, CSS, JavaScript, Angular, React, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger**
-- Databases: **Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis, Cassandra**
-- Testing: **JUnit, Pytest, Selenium, Playwright, JMeter, SonarQube**
-- Security: **OAuth2, JWT, Spring Security, SSL/TLS, mTLS**
-- Cloud & DevOps: **Azure, Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka, Tomcat, JBoss, Prometheus, Grafana, SonarQube, Bitbucket**
-- Build & Dependencies: **Maven, Gradle, Poetry, pip, uv**
-- Architecture & Modeling: **PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs**
-- IDEs & Editors: **IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf**
-- AI & LLM Tools: **Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain**
-- Agile & Practices: **Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points**
-- Project & Collaboration: **Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket**
-- Others: **UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting**
+- **Backend Development:** Java, Python, Spring Boot/Security/MVC, Maven, Gradle, Hibernate, REST APIs, gRPC, SOAP/WSDL, Microservices
+- **Web Technologies:** HTML5, CSS, JavaScript, Angular, React, JSON, XML, YAML, TOML, GraphQL, OpenAPI/Swagger
+- **Databases:** Oracle, PostgreSQL, MySQL, SQLServer, MariaDB, H2 DB, SQLite, MongoDB, Redis, Cassandra
+- **Testing:** JUnit, Pytest, Selenium, Playwright, JMeter, SonarQube
+- **Security:** OAuth2, JWT, Spring Security, SSL/TLS, mTLS
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, Jenkins, Nginx, Kafka, Tomcat, JBoss, Prometheus, Grafana, SonarQube, Bitbucket
+- **Build & Dependencies:** Maven, Gradle, Poetry, pip, uv
+- **Architecture & Modeling:** PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs
+- **IDEs & Editors:** IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf
+- **AI & LLM Tools:** Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain
+- **Agile & Practices:** Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points
+- **Project & Collaboration:** Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket
+- **Others:** UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting
 
 [![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-brightgreen)](https://github.com/wallaceespindola)
 [![Role](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue)](https://github.com/wallaceespindola)
