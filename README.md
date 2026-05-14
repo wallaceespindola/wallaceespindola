@@ -109,15 +109,18 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 🔭 Latest Projects
 
-- **[Fake Data with Spring Boot, DataFaker & EasyRandom](https://github.com/wallaceespindola/fake-data-springboot)** - Generating realistic fake data in Java with Spring Boot, Quarkus, DataFaker and EasyRandom for testing and development.
-- **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)** - A simple and easy to use flash cards web app, based on a "question;answer" text list csv, you can give it a try on [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
-- **[FastAPI Demo Project](https://github.com/wallaceespindola/python-fastapi-demo)** - A demo project showing the great features of FastAPI, one of the top and fastest technologies for REST APIs and Microservices, including non-blocking async endpoints, running on Python ecosystem.
-- **[Using Tox, Nox and CI/CD for Multiple Python Versions Validation Tests](https://github.com/wallaceespindola/tox-nox-python-tests)** - Demonstrates the integration of Tox, Nox, CI/CD, Poetry and Pytest to validate projects across multiple Python versions. Useful for shared libs and multi-user environments projects.
-- **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using modern algorithms like BCrypt, Argon2, and PBKDF2 with salting and computational intensity for better application security.
-- **[Python Flask Server Running Check](https://github.com/wallaceespindola/python-flask-app)** - A Python Flask web server utility to check that a server is up and running.
-- **[Cryptography Utils in Java](https://github.com/wallaceespindola/cryptography-utils-java)** - A utility library for cryptography in Java, for better application security and data protection.
-- **[Python Code & Tests](https://github.com/wallaceespindola/PythonRuns)** - A collection of useful Python tests and scripts, testing around Python features and ecosystem.
-- More projects are available on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
+- **[Banking Statement Converter Platform — CAMT / MT](https://github.com/wallaceespindola/camt-mt-converters)** - Enterprise-grade platform converting internal domain data to **MT940, MT942, camt.052, camt.053** banking file formats using Prowide Core + ISO 20022, Spring Batch and the Strategy Pattern.
+- **[Banking Fixed-Length File Generator & Parser](https://github.com/wallaceespindola/fixed-length-converters)** - Generates, parses and benchmarks **CODA** and **SWIFT MT940** fixed-length banking files using 7 Java formatter libraries orchestrated via Spring Batch and the Strategy Pattern. Includes a React/Vite frontend.
+- **[K8s Batch Processor](https://github.com/wallaceespindola/k8s-batch-processor)** - Spring Batch jobs on Kubernetes with Horizontal Pod Autoscaling (HPA) and real-time Server-Sent Events (SSE) progress tracking. Production-ready K8s manifests included.
+- **[Automated Real Estate Monitor — Belgium](https://github.com/wallaceespindola/immo-search)** - Daily scraping of Belgian property websites, detects new listings matching configurable criteria and sends email alerts. Python 3.12+, uv, SQLite.
+- **[Resilience4J Demo — Fault Tolerance Patterns](https://github.com/wallaceespindola/resilience4j-demo)** - Six fault-tolerance patterns (Circuit Breaker, Retry, Rate Limiter, Bulkhead, Time Limiter, Cache) in a single Spring Boot 3.5 project with real-world HTTP client scenarios.
+- **[Schemas Demo: Avro vs Protobuf vs JSON Schema](https://github.com/wallaceespindola/avro-protobuf-jsonschema)** - Hands-on comparison of three data serialization formats with working FastAPI endpoints, showing how each works in practice, not just in theory.
+- **[AI Agents & Skills for Software Engineering](https://github.com/wallaceespindola/ai-agents)** - A comprehensive system of 10 specialized AI agents with 95+ skills covering software engineering, system architecture, infrastructure automation, and project management.
+- **[Contract-First Integrations](https://github.com/wallaceespindola/contract-first-integrations)** - Reference implementation for contract-first (API-first) development using OpenAPI 3.0, Apache Kafka with Avro + Schema Registry, Flyway migrations and Spring Boot.
+- **[Fake Data with Spring Boot & Quarkus](https://github.com/wallaceespindola/fake-data-springboot)** - Generating realistic fake data in Java with Spring Boot, Quarkus, DataFaker and EasyRandom for testing and development.
+- **[Flashcards App - PythonAnywhere](https://github.com/wallaceespindola/flashcards-app)** - A simple flash cards web app based on a "question;answer" CSV list. Try it live at [wallacese.pythonanywhere.com](https://wallacese.pythonanywhere.com/).
+- **[Secure Password Hashing in Java](https://github.com/wallaceespindola/password-hashing-security-java)** - Secure password hashing in Java using BCrypt, Argon2 and PBKDF2 with salting and computational intensity for better application security.
+- More projects on [my GitHub repositories](https://github.com/wallaceespindola?tab=repositories).
 
 ---
 
