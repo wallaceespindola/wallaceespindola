@@ -1,4 +1,4 @@
-<img src="/img/github-banner-wallace.png" alt="github-banner" width="100%">
+<img src="img/github-banner-wallace.png" alt="github-banner" width="100%">
 
 # Hi there, I'm Wallace Espindola! 👋
 
@@ -18,6 +18,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 [![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
 ![GitHub Followers](https://img.shields.io/github/followers/wallaceespindola?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/wallaceespindola?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=wallaceespindola&color=blueviolet&style=flat&label=Profile+Views)
 
 ---
 
@@ -180,7 +181,9 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
   
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=wallaceespindola&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceespindola&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="https://github.com/wallaceespindola">![Github stats](https://gh-readme-stats.vercel.app/api?username=wallaceespindola&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="https://github.com/wallaceespindola">![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=wallaceespindola&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <br/>
+  <a href="https://github.com/wallaceespindola">![GitHub Streak](https://streak-stats.demolab.com/?user=wallaceespindola&theme=blueberry&hide_border=true)</a>
   
 </details>
