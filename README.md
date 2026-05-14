@@ -187,3 +187,29 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
   <a href="https://github.com/wallaceespindola">![GitHub Streak](https://streak-stats.demolab.com/?user=wallaceespindola&theme=blueberry&hide_border=true)</a>
   
 </details>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wallaceespindola&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wallaceespindola/wallaceespindola/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wallaceespindola/wallaceespindola/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/wallaceespindola/wallaceespindola/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallaceespindola&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff&area=true&hide_border=true" alt="contribution activity graph" width="100%" />
+</div>
