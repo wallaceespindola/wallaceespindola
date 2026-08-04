@@ -8,6 +8,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 - 💡 I’m always learning about **Java**, **Python**, design patterns, and best practices in REST APIs.
 - 🏗️ I design and document **software architectures**, from microservices to enterprise systems.
+- 🤖 I work with **spec-driven development** and **AI agentic development**, building AI agents, skills and MCP integrations.
 - 🖥️ All of my projects are available at **[my GitHub repos](https://github.com/wallaceespindola)**.
 - 💬 Ask me about **Java, Python, Solution Architecture, System Design, REST APIs, Microservices, and ADRs**.
 - 📫 How to find me: reach out on **[my LinkedIn page](https://www.linkedin.com/in/wallaceespindola)**
@@ -34,6 +35,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - **Architecture & Modeling:** PlantUML, Mermaid, Draw.io, Enterprise Architect, ArchiMate, Visio, ADRs
 - **IDEs & Editors:** IntelliJ IDEA, VS Code, Vim, PyCharm, Cursor, Windsurf
 - **AI & LLM Tools:** Claude, GitHub Copilot, ChatGPT, Gemini, Windsurf, Cursor, Codex, Ollama, LangChain
+- **AI Engineering:** Spec-Driven Development, AI Agentic Development, AI Agents & Skills, MCP (Model Context Protocol), Prompt Engineering
 - **Agile & Practices:** Scrum, Kanban, Sprint Planning, Backlog Refinement, Story Mapping, Retrospectives, Story Points
 - **Project & Collaboration:** Jira, Confluence, Azure DevOps, Miro, Trello, Bitbucket
 - **Others:** UML, OO, Design Patterns, Software Architecture, System Design, Bash/Shell Scripting
@@ -149,7 +151,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - **[[Code & Coffee - Substack] GraphQL vs. REST – Understanding the Differences and When to Use Each](https://wallaceespindola.substack.com/p/graphql-vs-rest-understand-differences-when-use)** - Breaking down the key differences between GraphQL and REST APIs, with guidance on when to use each approach.
 - **[[Code & Coffee - Substack] FastAPI in Action: Cutting Edge Async API Development](https://wallaceespindola.substack.com/p/fastapi-in-action-cutting-edge-async-apis)** - A quick tour of what makes FastAPI stand out among Python web frameworks: async-first design, type-hint-driven validation and near-zero boilerplate.
 - **[[DZone] Top NoSQL Databases and When to Use Each](https://dzone.com/articles/top-nosql-databases-and-use-cases)** - A practical guide comparing NoSQL technologies like MongoDB, Cassandra, Redis, and more, highlighting their strengths, limitations, and best use cases.
-- **[[Code & Coffee - Substack] Java turns 30: An Innovation Journey Through Time and Technology](https://wallaceespindola.substack.com/p/java-turns-30-an-innovation-journey)** - What 30 years of Java can teach us about building tech that lasts. A timeline on what happened to **Java** from May 23rd 1995, when **Sun Microsystems** introduced Java 1.0 to the world, until modern days that made Java essentially great.
+- **[[Code & Coffee - Substack] Java turns 30: An Innovation Journey Through Time and Technology](https://wallaceespindola.substack.com/p/java-turns-30-an-innovation-journey)** - A timeline of **Java** from its 1995 launch by **Sun Microsystems** to today, and what 30 years teach us about building tech that lasts.
 - **[[Dev Community] FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)** - FastAPI in practice: natively async Python APIs with Pydantic validation and auto-generated Swagger/ReDoc docs.
 - **[[Dev Community] NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)** - Explore NoSQL databases reimagined as superheroes, each with unique powers and weaknesses, in a fun and visual battle-style format.
 - **[[LinkedIn Pulse] Java is turning 30 soon! Here's Why You Should Care, Even if You're Not a Tech Person](https://www.linkedin.com/pulse/java-turning-30-soon-heres-why-you-should-care-even-youre-espindola-npxqe)** - Java is a super famous programming language, and it is almost turning 30. But wait, what exactly is Java, and why should it matter to you?
