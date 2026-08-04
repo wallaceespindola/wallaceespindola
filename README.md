@@ -13,7 +13,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - 💬 Ask me about **Java, Python, Solution Architecture, System Design, REST APIs, Microservices, and ADRs**.
 - 📫 How to find me: reach out on **[my LinkedIn page](https://www.linkedin.com/in/wallaceespindola)**
 - 🤝 I’m frequently looking to collaborate on interesting projects, especially Java and Python based.
-- 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, and a bit of Spanish 🇪🇸, feel free to reach out.
+- 🌐 I speak English 🇬🇧, Portuguese 🇧🇷, French 🇫🇷, some Spanish 🇪🇸, and a bit of Dutch 🇳🇱, feel free to reach out.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wsespindola?style=social)](https://x.com/wsespindola)
 [![Linkedin: Wallace Espindola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallaceespindola/)](https://www.linkedin.com/in/wallaceespindola/)
