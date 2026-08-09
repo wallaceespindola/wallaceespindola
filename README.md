@@ -97,12 +97,6 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ---
 
-## ☕ Cup of Support: Buy me a Coffee to Elevate My Energy
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/wallace.espindola)
-
----
-
 ## 🎓 Certifications
 
 - **SCJP - Sun Certified Java Programmer** (Sun Microsystems)
@@ -182,6 +176,12 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 - Presentation Slides: [speakerdeck.com/wallacese](https://speakerdeck.com/wallacese)
 - Speaker Profile: [sessionize.com/wallace-espindola](https://sessionize.com/wallace-espindola/)
 - Gravatar: [gravatar.com/wallacese](https://gravatar.com/wallacese)
+
+---
+
+## ☕ Cup of Support: Buy me a Coffee to Elevate My Energy
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/wallace.espindola)
 
 ---
 
