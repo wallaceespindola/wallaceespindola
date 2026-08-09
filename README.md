@@ -208,7 +208,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wallaceespindola&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=wallaceespindola&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </div>
 
 ---
