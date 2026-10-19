@@ -105,6 +105,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 🔭 Latest Projects
 
+- **[Sharing Copilot Capacity with Spec-Driven Development](https://github.com/wallaceespindola/share-tokens-using-spec-driven-dev)** - A team process, with example specs, prompt files and diagrams, for routing work to teammates who still have **GitHub Copilot** credits through version-controlled `TASK.md` specs instead of shared accounts.
 - **[Distributed Batch Orchestrator](https://github.com/wallaceespindola/distributed-batch-orchestrator)** - Distributed batch processing with **Java 21, Spring Boot 3.4 and Spring Batch**: six identical instances process banking reports together, with dynamic **Master election** per run and a live HTML/JS frontend visualizing the whole cluster.
 - **[Report Composer POC - Spring Batch + Kafka + K8s](https://github.com/wallaceespindola/report-composer-poc)** - Distributed report composer generating reports using **Spring Batch Remote Partitioning** over **Apache Kafka** on **Kubernetes** with autoscaling.
 - **[Flyway vs Liquibase - DB Migrations Compared](https://github.com/wallaceespindola/flyway-vs-liquibase-db-migrations)** - Side-by-side comparison of the two leading Java database migration tools, with working Spring Boot 3.4 setups for both **Flyway** and **Liquibase** on the same schema.
@@ -127,6 +128,8 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 
 ## 📝 Latest Articles, Publications and Tech-Talks
 
+- **[[Dev Community] Share Copilot capacity, not accounts: a TASK.md workflow](https://dev.to/wallaceespindola/share-copilot-capacity-not-accounts-a-taskmd-workflow-1kpl)** - The hands-on side of sharing Copilot capacity: the files you add to a repo and how a task spec moves from the developer out of credits to the teammate who implements it.
+- **[[Medium] Uneven Copilot credits? Make the spec the unit of work](https://medium.com/@wallaceespindola/uneven-copilot-credits-make-the-spec-the-unit-of-work-a4e3d9178ff7)** - Some developers run out of Copilot credits while teammates end the period with credits to spare: route the work through version-controlled task specs, not shared accounts.
 - **[[Dev Community] Stop Rewriting Legacy Systems: Use AI to Understand Them First](https://dev.to/wallaceespindola/stop-rewriting-legacy-systems-use-ai-to-understand-them-first-21ba)** - A developer-focused take on AI-assisted legacy modernization: mapping what a system actually does before deciding what to rebuild.
 - **[[Medium] Above the Rewrite: How AI Is Changing Legacy Modernization](https://medium.com/@wallaceespindola/above-the-rewrite-how-ai-is-changing-legacy-modernization-ed757a9087a3)** - How AI shifts legacy modernization from big-bang rewrites to capability discovery, incremental evolution and preserved business knowledge.
 - **[[Code & Coffee - Substack] The Future of Legacy Modernization Isn't a Simple Rewrite](https://wallaceespindola.substack.com/p/the-future-of-legacy-modernization)** - Newsletter take: AI should help teams understand legacy systems better, not just rewrite them faster - discover business capabilities and evolve architecture step by step.
