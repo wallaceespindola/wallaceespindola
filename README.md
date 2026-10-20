@@ -243,5 +243,7 @@ I’m a **Senior Software Engineer & Solutions Architect** with a passion for ba
 ## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallaceespindola&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff&area=true&hide_border=true" alt="contribution activity graph" width="100%" />
+  <a href="https://github.com/wallaceespindola">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceespindola&theme=github_dark" alt="contribution activity graph" width="100%" />
+  </a>
 </div>
